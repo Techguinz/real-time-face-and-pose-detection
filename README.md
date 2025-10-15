@@ -1,5 +1,6 @@
 real-time-face-and-pose-detection-program
 communicates with Unity via a TCP connection. It uses computer vision techniques to detect facial landmarks, eyes, and mouth features, stabilize their movements, and send this data to Unity for 3D model animation or interaction.
+There is already a Linux version of this by someone else, but I might try make one sometime to understand differences
 
 
 1. Imports Necessary Libraries
