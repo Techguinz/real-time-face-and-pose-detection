@@ -13,5 +13,4 @@ PoseEstimator: Calculates head pose (roll, pitch, yaw).
 Stabilizer: Smooths noisy head/eye/mouth position values.
 FacialFeatures: Detects eye, iris, and mouth properties.
 Install required libraries (opencv-python, mediapipe, etc.).
-
-This would be useful for models, such as vtubers, moving head as a different character or predicting movements or something for sending data.
+ This is useful for motion capture works and detecting facial features and working with animation.
